@@ -1,0 +1,2 @@
+# SelectionSort
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2812bf1412a34080add108ff2d56e2d7)](https://app.codacy.com/manual/Leock9/SelectionSort?utm_source=github.com&utm_medium=referral&utm_content=Leock9/SelectionSort&utm_campaign=Badge_Grade_Dashboard)
